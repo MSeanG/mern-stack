@@ -1,0 +1,20 @@
+{
+  "name": "mern-stack",
+  "version": "1.0.0",
+  "description": "Mongo, Express, React, Node. Example and sample applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MSeanG/mern-stack.git"
+  },
+  "keywords": [],
+  "author": "Sean Gilmore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MSeanG/mern-stack/issues"
+  },
+  "homepage": "https://github.com/MSeanG/mern-stack#readme"
+}
