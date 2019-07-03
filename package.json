@@ -1,6 +1,6 @@
 {
   "name": "mern-stack",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Mongo, Express, React, Node. Example and sample applications.",
   "main": "index.js",
   "scripts": {
